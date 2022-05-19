@@ -1,9 +1,16 @@
 ### Hi there 👋, my name is Aleksandr
 #### I am trainee iOS Developer
+I have been studying iOS development since 2020
+
 ![I am GitHub Readme Generator's creator](https://www.codewars.com/users/Focus61/badges/small)
 
-Skills: Swift , UIKit, AutoLayout, Animations, GCD, URLSession, Core Location(partly)
+My [leetcode](https://leetcode.com/focus61/).
 
-[leetcode](https://leetcode.com/focus61/)
-
-- 🔭 I’m currently working on this page. 
+## Skills:
+- Swift 
+- UIKit 
+- AutoLayout, Storyboard, and manual 
+- CALayer 
+- GCD, OperationQueue
+- URLSession, REST API
+- Core Data
