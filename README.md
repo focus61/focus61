@@ -12,7 +12,7 @@ My [leetcode](https://leetcode.com/focus61/).
 ## Skills:
 - Swift 
 - UIKit
-- Storyboard or manual layout 
+- Storyboard or manual layout(manual in priority)
 - CoreAnimation
 - Firebase
 - GCD, OperationQueue
@@ -21,4 +21,5 @@ My [leetcode](https://leetcode.com/focus61/).
 - Git, GitFlow
 - Appstore connect
 - Other(Postman, Figma)
+- Alghorims and Data Structure 
 - Began studying SwiftUI
